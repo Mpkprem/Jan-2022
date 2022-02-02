@@ -26,4 +26,7 @@ private void daddyId() {
 	System.out.println("Daddy ID is : 1234");
 
 }
+private void num() {
+System.out.println("number");
+}
 }
